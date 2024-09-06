@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "10 Oct 2002" },
+    {
+      "website": "<a target='blank' href='http://ian-claros-resume.s3-website-us-east-1.amazonaws.com'>http://ian-claros-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 912-707-7584" },
+    { "address": "Cabulijan, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>aapaclibar473@gmail.com</a>" },
+    { "freelance": "Not Available" }
+  ],
+  "data_3": [
+    "Cabulijan, Tubigon, Bohol, Philippines",
+    "+63 912-707-7584",
+    "<a href='mailto:someone@example.com'>aapaclibar473@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. Information Technology",
+      "year": "2021 - Present",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol, Philippines"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015 - 2019",
+      "school": "Holy Cross Academy",
+      "address": "Pooc Oriental, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2013 - 2015",
+      "school": "Tubigon, East, Central, Elementary, School",
+      "address": "Macaas, Tubigon, Bohol"
+    }
+  ]
+}
